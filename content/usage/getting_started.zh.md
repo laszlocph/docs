@@ -7,10 +7,6 @@ next_steps:
     name: Pipeline 配置
   - file: usage/concepts/services.zh.md
     name: Services 服务配置
-  - file: usage/publishing/docker.zh.md
-    name: 发布到 Dockerhub
-  - file: usage/deployments/kubernetes.zh.md
-    name: 部署到 Kubernetes
 
 menu:
   usage:

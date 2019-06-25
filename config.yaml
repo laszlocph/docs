@@ -59,10 +59,6 @@ menu:
       weight: 203
     - identifier: usage_secrets
       weight: 204
-    - identifier: usage_publishing
-      weight: 205
-    - identifier: usage_deployments
-      weight: 206
     - identifier: usage_notifications
       weight: 207
     - identifier: usage_reports

@@ -9,10 +9,6 @@ url = "configure-prometheus"
   weight = 9
 +++
 
-{{% alert enterprise %}}
-This feature is only available in the [Enterprise expansion pack](https://drone.io/enterprise/)
-{{% /alert %}}
-
 Drone is compatible with Prometheus and exposes a `/metrics` endpoint. Please note that access to the metrics endpoint is restricted and requires an authorization token with administrative privileges.
 
 ```nohighlight

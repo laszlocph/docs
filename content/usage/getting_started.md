@@ -7,10 +7,6 @@ next_steps:
     name: Pipeline Configuration
   - file: usage/concepts/services.md
     name: Services Configuration
-  - file: usage/publishing/docker.md
-    name: Publish to Dockerhub
-  - file: usage/deployments/kubernetes.md
-    name: Deploy to Kubernetes
 
 menu:
   usage:
